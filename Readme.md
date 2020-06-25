@@ -1,6 +1,6 @@
 # HelloWorld
 ## Hello Canada
 
-*Red
-*Blue
-*Green
+- Red
+- Blue
+- Green
